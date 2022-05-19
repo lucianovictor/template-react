@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -7,19 +6,19 @@
 }
 
 :root {
-  --background: #181820;
-  --background-light: #21212B;
+  --background: #s;
+  --background-light: #;
 
-  --primary: #FFFFFF;
-  --secondary: #F876A1;
-  --terciary: #818186;
+  --primary: #;
+  --secondary: #;
+  --tertiary: #;
 }
 
-// body {
-//   background: var(--background);
-// }
+body {
+  background: var(--background);
+}
 
-// body, button, textarea, input {
-//   color: var(--primary);
-//   font: 400 1rem "Fredoka", sans-serif;
-// }
+body, button, textarea, input {
+  color: var(--primary);
+  font: 400 1rem "Poppins", sans-serif;
+}
